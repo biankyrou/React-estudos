@@ -3,4 +3,4 @@ Em componentes, há, em ordem a criação de:
 - Pessoa = função que pede os seguintes parâmetros (nome, idade, profissao, foto) e retorna cada um deles.
 - Item = função que pede (marca, ano_lancamento). Usa um fragment e o import PropTypes.
 - List = componente que importa "Item" e retorna uma lista com os parâmetros anteriores (marca e ano_lancamento)
-- Frase = importa CSS (um componente com uma frase estilizado)
+- Frase = importa CSS (um componente com uma frase estilizada)
